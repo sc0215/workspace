@@ -1,6 +1,6 @@
-# pkc-mobile
+# mobile
 
-> PKC智能秤
+> ddd
 
 ## Build Setup
 
